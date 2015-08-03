@@ -5,10 +5,18 @@
     - Programming
     - Open Science
 
-
 - name: Dorian Kvale
   affiliation: MPCA
   github: dKvale
   interests:
     - R-Stats
     - Air Modeling
+
+- name: Cassie
+  affiliation: MPCA
+  github: CRMcMahon
+  interests:
+    - R-Stats
+    - Data Analysis
+
+
